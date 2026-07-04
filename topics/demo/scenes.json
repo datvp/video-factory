@@ -1,0 +1,42 @@
+[
+  {
+    "id": "scene_001",
+    "text": "Once, a man lived entirely alone in the forest.",
+    "emotion": "sad",
+    "duration": 3.91304347826087,
+    "camera": "zoom_in",
+    "style": "soft_whiteboard"
+  },
+  {
+    "id": "scene_002",
+    "text": "He believed that solitude was the only path to peace.",
+    "emotion": "neutral",
+    "duration": 4.347826086956522,
+    "camera": "static",
+    "style": "basic"
+  },
+  {
+    "id": "scene_003",
+    "text": "But over time, he began to feel an emptiness he could not explain.",
+    "emotion": "contrast",
+    "duration": 5.6521739130434785,
+    "camera": "pan",
+    "style": "basic"
+  },
+  {
+    "id": "scene_004",
+    "text": "One day, he realized that connection with others was not a weakness, but a source of strength.",
+    "emotion": "contrast",
+    "duration": 7.391304347826088,
+    "camera": "pan",
+    "style": "basic"
+  },
+  {
+    "id": "scene_005",
+    "text": "He discovered that true peace comes not from isolation, but from understanding.",
+    "emotion": "contrast",
+    "duration": 5.217391304347826,
+    "camera": "pan",
+    "style": "basic"
+  }
+]
