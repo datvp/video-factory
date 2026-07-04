@@ -1,1 +1,3 @@
-output/*
+# Generated folders
+**/output/
+**/renders/
